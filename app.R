@@ -29,8 +29,8 @@ ui <- bslib::page_fluid(
           tags$img(src = "logo.png", class = "brand-logo", alt = "", width = "52", height = "52"),
           div(
             h1(tags$span(class = "brand", "phyloSophR"),
-               " — From hypotheses to reproducible experimental designs"),
-            p(class = "page-subtitle", "A phylogenetic comparative design assistant.")
+               "A phylogenetic comparative experimental design assistant"),
+            p(class = "page-subtitle", "From a hypothesis to a reproducible experimental design")
           )
         ),
         div(class = "header-actions",

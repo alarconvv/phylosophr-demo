@@ -10,3 +10,4 @@
 # Agent/assistant tooling (not part of the shipped project)
 .claude/
 AGENTS.md
+.positai
