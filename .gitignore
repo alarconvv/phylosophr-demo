@@ -7,6 +7,9 @@
 .RData
 .Ruserdata
 
+# shinyapps.io deployment bookkeeping (account/app IDs tied to the deploying machine)
+rsconnect/
+
 # Agent/assistant tooling (not part of the shipped project)
 .claude/
 AGENTS.md
