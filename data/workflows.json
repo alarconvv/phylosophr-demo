@@ -1,0 +1,24 @@
+
+{
+  "hypothesis": {
+    "text": "Test if body size evolution accelerated during the Eocene in mammals.",
+    "trait": "body size",
+    "taxon": "Mammalia",
+    "process": "rate variation",
+    "time_period": "Eocene"
+  },
+  "workflow": [
+    {
+      "id": "n1",
+      "operation": "obtain_phylogeny"
+    },
+    {
+      "id": "n2",
+      "operation": "obtain_trait_data"
+    },
+    {
+      "id": "n3",
+      "operation": "match_taxa"
+    }
+  ]
+}

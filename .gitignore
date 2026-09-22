@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+
+# RStudio project state (machine-specific, not shared code)
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Agent/assistant tooling (not part of the shipped project)
+.claude/
+AGENTS.md
